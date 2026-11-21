@@ -1,0 +1,11 @@
+{
+  "name": "consistent-hash-ring",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Visualize consistent hashing, virtual nodes, and key movement when servers join or leave.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
